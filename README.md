@@ -1,1 +1,0 @@
-# makenamefile_batch-master
